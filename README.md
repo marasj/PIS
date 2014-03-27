@@ -1,4 +1,6 @@
 PIS
 ===
 
-Vje≈æbe i projektiranja informacijskih sustava
+Vjeûbe iz projektiranja informacijskih sustava
+
+Vjeûba 3 - rad s distribuiranim sustavima verzioniranja
