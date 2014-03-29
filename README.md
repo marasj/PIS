@@ -1,6 +1,8 @@
 PIS
 ===
 
-Vježbe iz projektiranja informacijskih sustava
+Vjezbe iz projektiranja informacijskih sustava
 
-Vježba 3 - rad s distribuiranim sustavima verzioniranja
+Vjezba 3 - rad s distribuiranim sustavima verzioniranja
+
+Suradnik radi neku modifikaciju!
