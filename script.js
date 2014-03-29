@@ -1,4 +1,7 @@
 function sortFromLargest(array)
 {
-	return array.sort();
+	return array.sort(function (a,b)
+	{
+		return b - a;
+	});
 }
